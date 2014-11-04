@@ -1,6 +1,5 @@
 package com.programing;
 
-import java.util.*;
 
 class TreeLinkNode {
      int val;
